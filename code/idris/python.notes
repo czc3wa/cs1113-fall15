@@ -1,0 +1,8 @@
+module pythonNotes
+
+{-static mean compiling and dynamic means run time
+immutabale is unchangeable- variable binding cannot change
+pyhton is a mutable state, can update the values of variables
+commands in python are states transformers
+
+-}
